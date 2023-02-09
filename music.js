@@ -38,6 +38,11 @@
             title: "STAY",
             artist: "Justin Bieber",
         },
+        {
+            name: "TUM",
+            title: "Tumbaad",
+            artist: "Tumbadd",
+        },
     ]
 
     let isPlaying = false;
